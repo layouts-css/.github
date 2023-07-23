@@ -3,22 +3,21 @@
 >    Easy-to-understand layout classes for css, implemented in several popular paradigms.
 <br/>
 
-Say goodbye to flexbox or grid headaches and create HTML layouts with ease!
+Sleep like a baby and kiss those flexbox & CSS grid nightmares goodbye! Rest well, as you effortlessly create HTML layouts without a worry!
 
 Yes - you can center a div with ease 😌
 
-
-Layout CSS makes it a breeze to layout you HTML with it's easy-to-understand CSS layout classes implmented in the following paradigms below. 
-<br/> **Note:** docs will differ for each implemention, continue reading for the key concepts or navigate to your implementation of choice to get started. 
+layout-css makes it a breeze to layout HTML with it's easy-to-understand CSS layout classes implmented in the following paradigms below. 
 
 - [@layout-css/tailwindcss-plugin](https://github.com/layout-css/tailwindcss-plugin)
 
 _**🚧 Coming soon**_
 - [@layout-css/plain-css](https://github.com/layout-css/plain-css) 
-- [@layout-css/vanilla-extract]((https://github.com/layout-css/vanilla-extract)) (CSS in JS/TS)
+- [@layout-css/vanilla-extract](https://github.com/layout-css/vanilla-extract) (CSS in JS/TS)
+
+**Note:** docs will differ for each implemention, continue reading for the key concepts or navigate to your implementation of choice to get started. 
 
 ## Key Concepts
-
 layout-css builds on the idea of utility-first classes popularised by [tailwindcss]() and introduces the concept of layout classes. The diference is that utility-first clasess wrap a single concept in css where as the a layout class wraps multiple to achive an intent.
 
 ### Dimension Layout Classes
@@ -48,7 +47,8 @@ Single-panel layout clasess decribe how the child elements behave in the contain
 (top, middle, bottom)
 
 
-### 🚧 Responsive-Multi-Panel Layout Classes:<br/> [_Coming soon_]
+### 🚧 Responsive-Multi-Panel Layout Classes
+_Coming soon_
 Responsisve-mulit-panel layout classes describe the behaviours commonly seen on websites across the web and how they behave across the different form factors. 
 - headers & navigation 
 - content, columns and side bars
